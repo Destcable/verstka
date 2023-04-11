@@ -5,7 +5,6 @@
 
 .header__wrapper { 
     display: flex;
-    background-color: aqua;
     flex-direction: row;
     justify-content: space-between;
     padding: 20px;
